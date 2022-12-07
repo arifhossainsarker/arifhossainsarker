@@ -24,7 +24,6 @@ I am a Full-stack Developer with great experience in developing custom applicati
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhossainsarker)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifhossainsarker)
 
 
 ## ☕ Connect with me!
